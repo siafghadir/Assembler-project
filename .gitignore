@@ -51,5 +51,10 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Assembler generated files
+*.ob
+*.ent
+*.ext
+
 # debug information files
 *.dwo
